@@ -1,1 +1,1 @@
-console.log(document.div);
+console.table(document.div);
